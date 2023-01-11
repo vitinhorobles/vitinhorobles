@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Victor Robles 👋
 
 - 🔭 Hoje trabalho com vendas
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Html, Css e JavaScript
 - 😄 Pronomes: ele / dele
 
 <div>
