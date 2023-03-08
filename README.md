@@ -1,7 +1,7 @@
 ### Hello World! Eu sou o Victor Robles 👋
 
 - 🔭 Hoje sou estagiário na ACAI Soluções em TI
-- 🌱 Estudando Html, Css e JavaScript
+- 🌱 Estudando MySQL, Html, Css e JavaScript
 - 😄 Pronomes: ele / dele
 
 <div>
