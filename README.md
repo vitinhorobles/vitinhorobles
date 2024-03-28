@@ -3,7 +3,7 @@
 - 🔭 Hoje sou estagiário na ACAI Soluções em TI
 - 🌱 Estudando Python, Html, Css e JavaScript
 - 😄 Pronomes: ele / dele
-- 🛹 Hobbie: Andar de skate e artes marciais 
+- 🛹 Hobbie: Academia e de vez em quando skate
 
 <div>
   <a href= "https://github.com/vitinhorobles">
